@@ -1,1 +1,3 @@
+# Predicting myocardial infarction (MI) complications and death using tree-based methods
 
+This is a collaborative project from a graduate level course in statistical learning and data mining that focused on applied machine learning with a statistical foundation.  This project applied tree-based approaches (single decision trees, pruned trees, random forest, and AdaBoost) to analyze data from 1,700 myocardial infarction patients, identifying key predictors of complications and mortality including age, chronic heart failure, and use of nitrates.  My primary contributions were the application of tree-based approaches, benchmarked methods using misclassification rates and AUC, conducted a sensitivity analysis for missing data, and implemented multiple imputations.
